@@ -1,3 +1,13 @@
+## Description
+
+This is a project where you can find the prices of criptocurrency. 
+You can choose the currency you want.
+
+I used the API from https://min-api.cryptocompare.com/data/pricemultifull?fsyms=BTC&tsyms=USD,EUR
+
+Preview
+https://priceless-blackwell-8e25b8.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
