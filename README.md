@@ -1,11 +1,11 @@
 ## Description
 
-This is a project where you can find the prices of criptocurrency. 
-You can choose the currency you want.
+En este proyecto puedes encontrar el precio de la criptomoneda seleccionada elegiendo el tipo de moneda.
 
-I used the API from https://min-api.cryptocompare.com/data/pricemultifull?fsyms=BTC&tsyms=USD,EUR
 
-Preview
+API usada: https://min-api.cryptocompare.com/data/pricemultifull?fsyms=BTC&tsyms=USD,EUR
+
+Visualización:
 https://cryptocurrencyquote.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
